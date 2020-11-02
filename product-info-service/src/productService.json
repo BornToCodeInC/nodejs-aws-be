@@ -1,0 +1,61 @@
+[
+  {
+    "id": "KL2432",
+    "title": "ABELMOSCHUS MANIHOT",
+    "image": "https://my-raccoon-app.s3-eu-west-1.amazonaws.com/img/ACACIA_DEALBATA.jfif",
+    "price": 2500,
+    "productPriceFormatted" : "DKK 2.500,00",
+    "inStock" : true,
+    "relatedProducts": [
+      {"id": "KL2532"},
+      {"id": "KL2341"}
+    ]
+  },
+
+  {
+    "id": "KL2532",
+    "title": "ABIES KOREANA",
+    "image": "https://my-raccoon-app.s3-eu-west-1.amazonaws.com/img/ABIES_KOREANA.jfif",
+    "price": 2000,
+    "productPriceFormatted" : "DKK 2.000,00",
+    "inStock" : true,
+    "relatedProducts": [
+      {"id": "KL2432"},
+      {"id": "KL2341"}
+    ]
+  },
+  {
+    "id": "KL2341",
+    "title": "ABUTILON VITIFOLIUM ALBUM",
+    "image": "https://my-raccoon-app.s3-eu-west-1.amazonaws.com/img/ACACIA_DEALBATA.jfif",
+    "price": 2000,
+    "productPriceFormatted" : "DKK 3.000,00",
+    "inStock" : true,
+    "relatedProducts": [
+      {"id": "KL2432"},
+      {"id": "KL2532"}
+    ]
+  },
+  {
+    "id": "KL2441",
+    "title": "ACACIA DEALBATA",
+    "image": "https://my-raccoon-app.s3-eu-west-1.amazonaws.com/img/ACACIA_DEALBATA.jfif",
+    "price": 2000,
+    "productPriceFormatted" : "DKK 1.000,00",
+    "inStock" : true,
+    "relatedProducts": [
+      {"id": "KL2442"}
+    ]
+  },
+  {
+    "id": "KL2442",
+    "title": "ACACIA MANGIUM",
+    "image": "https://my-raccoon-app.s3-eu-west-1.amazonaws.com/img/ABIES_KOREANA.jfif",
+    "price": 2000,
+    "productPriceFormatted" : "DKK 1.200,00",
+    "inStock" : true,
+    "relatedProducts": [
+      {"id": "KL2441"}
+    ]
+  }
+]
