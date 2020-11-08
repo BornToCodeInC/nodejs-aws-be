@@ -1,0 +1,61 @@
+[
+  {
+    "id": "KL2432",
+    "title": "ABELMOSCHUS MANIHOT",
+    "image": "https://alchetron.com/cdn/abelmoschus-moschatus-5fb80747-fc10-42a3-8d88-1c349dc2175-resize-750.jpeg",
+    "price": 2500,
+    "productPriceFormatted" : "DKK 2.500,00",
+    "inStock" : true,
+    "relatedProducts": [
+      {"id": "KL2532"},
+      {"id": "KL2341"}
+    ]
+  },
+
+  {
+    "id": "KL2532",
+    "title": "ABIES KOREANA",
+    "image": "https://alchetron.com/cdn/abelmoschus-moschatus-5fb80747-fc10-42a3-8d88-1c349dc2175-resize-750.jpeg",
+    "price": 2000,
+    "productPriceFormatted" : "DKK 2.000,00",
+    "inStock" : true,
+    "relatedProducts": [
+      {"id": "KL2432"},
+      {"id": "KL2341"}
+    ]
+  },
+  {
+    "id": "KL2341",
+    "title": "ABUTILON VITIFOLIUM ALBUM",
+    "image": "https://www.exotic-seeds.store/7710-large_default/korea-tanne-korean-fir-seeds-abies-koreana.jpg",
+    "price": 2000,
+    "productPriceFormatted" : "DKK 3.000,00",
+    "inStock" : true,
+    "relatedProducts": [
+      {"id": "KL2432"},
+      {"id": "KL2532"}
+    ]
+  },
+  {
+    "id": "KL2441",
+    "title": "ACACIA DEALBATA",
+    "image": "https://www.exotic-seeds.store/7710-large_default/korea-tanne-korean-fir-seeds-abies-koreana.jpg",
+    "price": 2000,
+    "productPriceFormatted" : "DKK 1.000,00",
+    "inStock" : true,
+    "relatedProducts": [
+      {"id": "KL2442"}
+    ]
+  },
+  {
+    "id": "KL2442",
+    "title": "ACACIA MANGIUM",
+    "image": "https://alchetron.com/cdn/abelmoschus-moschatus-5fb80747-fc10-42a3-8d88-1c349dc2175-resize-750.jpeg",
+    "price": 2000,
+    "productPriceFormatted" : "DKK 1.200,00",
+    "inStock" : true,
+    "relatedProducts": [
+      {"id": "KL2441"}
+    ]
+  }
+]
